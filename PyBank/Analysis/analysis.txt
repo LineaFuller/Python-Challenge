@@ -1,0 +1,6 @@
+Financial Analysis
+----------------------------
+Total Months: 86Total Net Amount: $38382578
+Average Change: $-2315.1176470588234
+Greatest increase in change: $Feb-2012 $1926159
+Greatest decrease in change: $Sep-2013 $-2196167
